@@ -1,0 +1,22 @@
+*{
+    color: rgb(255, 255, 255);
+   
+
+}
+
+body{
+    background-image: url("https://avatars.mds.yandex.net/get-images-cbir/3028499/9l3VUP0Omkr9Y7Os873z9Q1443/ocr");
+        
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat
+
+}
+P{
+    background-color: rgba(210, 105, 30, 0.451);
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
